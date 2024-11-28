@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+}
+
+.container {
+  background: rgb(229, 224, 224);
+  margin-bottom: 50px;
+  margin-top: 50px;
+  display: block;
+  padding: 50px;
+  border-radius: 9px;
+}
